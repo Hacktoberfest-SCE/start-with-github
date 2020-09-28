@@ -1,3 +1,3 @@
 # start-with-github
-![hacktoberfest](Resources/e0584bdb-7578-47c1-990b-e95d9dbe652e.jpg)
+![hacktoberfest](Resources/HF2020%20Events%201920x1080%20Centered.png )
 <div align="center"> <B>A Single repository to Start off with Github</B></div>
