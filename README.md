@@ -1,6 +1,5 @@
 # start-with-github
-![hacktoberfest](Resources/HF2020%20Events%201920x1080%20Centered.png)
+![image](https://user-images.githubusercontent.com/55646472/135388667-9fe789d7-1b24-40db-afd8-4fa037830476.png)
 <div align="center"> <B>A Single repository to Start off with Github</B></div> <br>
 
-<B> Recording of our video <B>: https://www.youtube.com/watch?v=wZD7z-SB-j4 <br>
-  <B> workshop PPT </B>: https://github.com/Hacktoberfest-SCE/start-with-github/blob/master/Resources/mlsafinal.pptx<br>
+
